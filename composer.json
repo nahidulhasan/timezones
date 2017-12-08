@@ -1,0 +1,13 @@
+{
+    "name": "nahidul/timezones",
+    "description": "Demo-package to show time",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "nahid35",
+            "email": "nahidul.cse@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
